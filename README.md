@@ -124,7 +124,7 @@ This project was completed by Electrical Engineering students from Imperial Coll
     &nbsp;  
     >- **[Graph for the Square waveform implementation:]**
     <p align = "center">
-        <img src = "Images/square.jpeg" width=70% height=70%>
+        <img src = "square_waveform.png" width=70% height=70%>
     </p>
 
     The square wave is a relatively basic waveform which is either high or low. Its implementation follows such that, when phaseAcc is smaller than half of the max int, Vout is set to 0 and when phaseAcc is higher than half the max int, Vout is set to 127.
